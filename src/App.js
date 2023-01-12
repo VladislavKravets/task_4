@@ -3,13 +3,14 @@ import 'modern-css-reset';
 import Header from "./Components/Header/Header";
 
 import OurBlog from "./Pages/OurBlog";
+import Home from "./Pages/Home";
 
 function App() {
 
     return (
         <>
             <Header/>
-            <OurBlog/>
+            <Home/>
         </>
     );
 }

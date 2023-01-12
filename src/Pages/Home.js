@@ -97,19 +97,19 @@ function Home() {
             </div>
             <div className="section">
                 <div className="container">
+                    <div className="sort_and_search">
+                        <input type="text" placeholder="&#xf002; Search"
+                               style={{fontSize: "16px", fontFamily: "Arial, FontAwesome"}}
+                               onChange={onChange}/>
+                        <select className="sort_selected" onChange={handleChange}>
+                            {
+                                options.map((item, index) => {
+                                    return <option key={index} value={item.value}> {item.label} </option>
+                                })
+                            }
+                        </select>
+                    </div>
                     <div className="content">
-                        <div className="sort_and_search">
-                            <input type="text" placeholder="&#xf002; Search"
-                                   style={{fontSize: "16px", fontFamily: "Arial, FontAwesome"}}
-                                   onChange={onChange}/>
-                            <select className="sort_selected" onChange={handleChange}>
-                                {
-                                    options.map((item, index) => {
-                                        return <option key={index} value={item.value}> {item.label} </option>
-                                    })
-                                }
-                            </select>
-                        </div>
                         <div className="cards" id="scrollBlock">
                             {
                                 chunkBlog(blogs, 8)[page - 1]?.sort(sortParams())?.map((item, index) => {

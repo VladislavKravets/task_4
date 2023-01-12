@@ -110,6 +110,7 @@
 
 @media (min-width: 1200px) {
     .sort_and_search {
+        padding-left: 30px;
         display: flex;
         justify-content: space-between;
     }
