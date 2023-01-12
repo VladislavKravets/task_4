@@ -1,0 +1,112 @@
+[
+  {
+    "images": "http://localhost:3000/assets/card.jpg",
+    "author": "Armaan Simon",
+    "authorImages": "https://img.freepik.com/free-photo/portrait-cute-little-boy-standing-with-arms-folded-looking-camera_1150-4769.jpg?w=2000",
+    "date": "30 January 2023",
+    "topic": "Design",
+    "readTime": "8 min read",
+    "title": "UX review presentations",
+    "body": "How do you create compelling presentations that wow you colleagues and impress you managers?",
+    "link": "/#"
+  },
+  {
+    "images": "./assets/card.jpg",
+    "author": "Lloyd Boyer",
+    "authorImages": "https://img.freepik.com/free-photo/portrait-cute-little-boy-standing-with-arms-folded-looking-camera_1150-4769.jpg?w=2000",
+    "date": "15 June 2023",
+    "topic": "Design",
+    "readTime": "8 min read",
+    "title": "Migrating to Linear 101",
+    "body": "Linear helps streamline softwawre pprojects,sprints,tasks, and bug tracking. Here`s how to get started.",
+    "link": "/#"
+  },
+  {
+    "images": "https://cs8.pikabu.ru/post_img/big/2016/03/13/5/1457852579112738240.jpg",
+    "author": "Melissa Vaughn",
+    "authorImages": "https://img.freepik.com/free-photo/portrait-cute-little-boy-standing-with-arms-folded-looking-camera_1150-4769.jpg?w=2000",
+    "date": "22 August 2023",
+    "topic": "Design",
+    "readTime": "8 min read",
+    "title": "Build you API Stack",
+    "body": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them.",
+    "link": "/#"
+  },
+  {
+    "images": "https://media.istockphoto.com/id/626669886/photo/blogging-blog-word-coder-coding-using-laptop.jpg?s=612x612&w=0&k=20&c=gX9o-kj9RohNBAT2n4wR6fldiTdvnpxZOsetFonpBJw=",
+    "author": "Fahad Orr",
+    "authorImages": "https://img.freepik.com/free-photo/portrait-cute-little-boy-standing-with-arms-folded-looking-camera_1150-4769.jpg?w=2000",
+    "date": "6 October 2023",
+    "topic": "Design",
+    "readTime": "8 min read",
+    "title": "Bill Walsh leadership lessons",
+    "body": "How do you create compelling presentations that wow you colleagues and impress you managers?",
+    "link": "/#"
+  },
+  {
+    "images": "data:image/jpeg;base64,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",
+    "author": "Libbie Arias",
+    "authorImages": "https://img.freepik.com/free-photo/portrait-cute-little-boy-standing-with-arms-folded-looking-camera_1150-4769.jpg?w=2000",
+    "date": "19 December 2023",
+    "topic": "Design",
+    "readTime": "8 min read",
+    "title": "PM mental models",
+    "body": "Linear helps streamline softwawre pprojects,sprints,tasks, and bug tracking. Here`s how to get started.",
+    "link": "/#"
+  },
+  {
+    "images": "https://media.istockphoto.com/id/626669886/photo/blogging-blog-word-coder-coding-using-laptop.jpg?s=612x612&w=0&k=20&c=gX9o-kj9RohNBAT2n4wR6fldiTdvnpxZOsetFonpBJw=",
+    "author": "Ismaeel Schultz",
+    "authorImages": "https://img.freepik.com/free-photo/portrait-cute-little-boy-standing-with-arms-folded-looking-camera_1150-4769.jpg?w=2000",
+    "date": "7 February 2023",
+    "topic": "Design",
+    "readTime": "8 min read",
+    "title": "What is Wireframing?",
+    "body": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them.",
+    "link": "/#"
+  },
+  {
+    "images": "https://www.theminimalists.com/wp-content/uploads/2019/01/how-to-start-a-blog-in-2020-1.jpg",
+    "author": "Lachlan Hodge",
+    "authorImages": "https://img.freepik.com/free-photo/portrait-cute-little-boy-standing-with-arms-folded-looking-camera_1150-4769.jpg?w=2000",
+    "date": "10 May 2023",
+    "topic": "Design",
+    "readTime": "8 min read",
+    "title": "How collaboration makes us better designers",
+    "body": "How do you create compelling presentations that wow you colleagues and impress you managers?",
+    "link": "/#"
+  },
+  {
+    "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWlgFdA_12xOEnRKiY7YmlIcwMszaPrunKg&usqp=CAU",
+    "author": "Miranda Bender",
+    "authorImages": "https://img.freepik.com/free-photo/portrait-cute-little-boy-standing-with-arms-folded-looking-camera_1150-4769.jpg?w=2000",
+    "date": "13 June 2023",
+    "topic": "Design",
+    "readTime": "8 min read",
+    "title": "Our top 10 Javascript frameworks to use",
+    "body": "Linear helps streamline softwawre pprojects,sprints,tasks, and bug tracking. Here`s how to get started.",
+    "link": "/#"
+  },
+  {
+    "images": "https://media.istockphoto.com/id/1124339065/photo/young-women-working-and-used-computer-working-concept.jpg?s=612x612&w=0&k=20&c=isC78uiUPgG1ZgRGPJ36t55ILReP3c0vMRrPksAWZrQ=",
+    "author": "Ray Harvey",
+    "authorImages": "https://img.freepik.com/free-photo/portrait-cute-little-boy-standing-with-arms-folded-looking-camera_1150-4769.jpg?w=2000",
+    "date": "29 June 2023",
+    "topic": "Design",
+    "readTime": "8 min read",
+    "title": "Build you API Stack",
+    "body": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them.",
+    "link": "/#"
+  },
+  {
+    "images": "https://media.istockphoto.com/id/1145371340/photo/partner-has-made-a-fraud-in-the-contract-of-sale-and-being-handed-a-cash-and-pen-to-the.jpg?s=612x612&w=0&k=20&c=gEL2GiGxVAWIg6zd73afHWjVE37cNEBww49DE45jwiI=",
+    "author": "Eesa Donovan",
+    "authorImages": "https://img.freepik.com/free-photo/portrait-cute-little-boy-standing-with-arms-folded-looking-camera_1150-4769.jpg?w=2000",
+    "date": "31 October 2023",
+    "topic": "Management",
+    "readTime": "8 min read",
+    "title": "How collaboration makes us better designers",
+    "body": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them.",
+    "link": "/#"
+  }
+]
